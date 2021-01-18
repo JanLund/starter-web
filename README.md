@@ -10,4 +10,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Deployment procedure and details.
+
 ## How To Contribute
+
+Some sample text.
