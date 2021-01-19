@@ -15,3 +15,7 @@ Deployment procedure and details.
 ## How To Contribute
 
 Some sample text.
+
+### Copyright
+
+2021 Copyright
