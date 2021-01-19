@@ -14,7 +14,7 @@ Deployment procedure and details.
 
 ## How To Contribute
 
-Some sample text.
+Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
